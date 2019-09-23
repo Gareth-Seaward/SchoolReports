@@ -1,0 +1,14 @@
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\bin\Debug\netcoreapp2.2\SchoolReports.API.deps.json
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\bin\Debug\netcoreapp2.2\SchoolReports.API.runtimeconfig.json
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\bin\Debug\netcoreapp2.2\SchoolReports.API.runtimeconfig.dev.json
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\bin\Debug\netcoreapp2.2\SchoolReports.API.dll
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\bin\Debug\netcoreapp2.2\SchoolReports.API.pdb
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.csprojAssemblyReference.cache
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.csproj.CoreCompileInputs.cache
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.RazorAssemblyInfo.cache
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.RazorAssemblyInfo.cs
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.AssemblyInfoInputs.cache
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.AssemblyInfo.cs
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.RazorTargetAssemblyInfo.cache
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.dll
+C:\Users\Arjac\Documents\Angular\SchoolReports\schoolreports.api\obj\Debug\netcoreapp2.2\SchoolReports.API.pdb
